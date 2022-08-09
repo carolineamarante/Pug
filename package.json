@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  },
+  "name": "pugzito",
+  "version": "1.1.1",
+  "description": "pug trial",
+  "main": "admin.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "nodemon admin.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
